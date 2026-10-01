@@ -8,3 +8,4 @@ I am practicing Git.
 This is a test branch.
 This line will be pushed to GitHub.
 Change for Pull Request
+This line is for fetch practice.
